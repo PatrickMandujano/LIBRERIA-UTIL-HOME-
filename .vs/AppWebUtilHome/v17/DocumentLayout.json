@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|c:\\users\\andre\\onedrive - cibertec\\tercer ciclo\\efsrt ii\\appwebutilhome\\proyectotest\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\logica\\marcalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\marcalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\logica\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\login\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\login\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\tienda\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\tienda\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\tienda\\compras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\tienda\\compras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\shared\\_layout_tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\shared\\_layout_tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\distrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\distrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\logica\\ubigeologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\ubigeologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\logica\\productologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\productologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\logica\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\logica\\categorialogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\categorialogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\logica\\carritologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\carritologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\proyectotest\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Login\\Registrarse.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-03T00:18:05.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Web.config",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Web.config",
+              "RelativeToolTip": "ProyectoTest\\Views\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-03T00:05:19.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Web.config",
+              "RelativeDocumentMoniker": "ProyectoTest\\Web.config",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Web.config",
+              "RelativeToolTip": "ProyectoTest\\Web.config",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-03T00:05:00.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:28.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Producto.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:28.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Provincia.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Provincia.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Provincia.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Provincia.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Provincia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:27.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Marca.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Marca.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:26.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Distrito.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Distrito.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Distrito.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Distrito.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Distrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:25.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\DetalleCompra.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\DetalleCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:24.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\DEPARTAMENTO.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\DEPARTAMENTO.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\DEPARTAMENTO.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\DEPARTAMENTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:20.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Categoria.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:19.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Compra.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Compra.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:18.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Carrito.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Models\\Carrito.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:17.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\utilidades.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\utilidades.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\utilidades.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\utilidades.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:03.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioLogica.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:44:01.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UbigeoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\UbigeoLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\UbigeoLogica.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\UbigeoLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\UbigeoLogica.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:43:47.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\ProductoLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\ProductoLogica.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\ProductoLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\ProductoLogica.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:43:35.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarcaLogica.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\MarcaLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\MarcaLogica.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\MarcaLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\MarcaLogica.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:43:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\Conexion.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\Conexion.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\Conexion.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:43:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CompraLogica.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\CompraLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\CompraLogica.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\CompraLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\CompraLogica.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:43:25.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\TiendaController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "ProyectoTest\\Controllers\\TiendaController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:42:57.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProyectoTest\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:42:56.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:42:50.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CarritoLogica.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\CarritoLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\CarritoLogica.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\CarritoLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\CarritoLogica.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:42:42.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoriaLogica.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\CategoriaLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\CategoriaLogica.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Logica\\CategoriaLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\CategoriaLogica.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T00:42:43.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T00:28:33.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T00:03:02.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout_Tienda.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T00:02:39.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Producto.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Producto.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Producto.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Producto.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Producto.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T00:14:39.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Compras.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Compras.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Compras.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Compras.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Compras.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T00:15:00.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Carrito.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Carrito.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T00:25:24.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T19:44:03.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tienda.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T00:09:16.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T00:06:56.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Producto.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Producto.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Producto.cshtml",
+              "ToolTip": "C:\\Users\\andre\\OneDrive - CIBERTEC\\Tercer ciclo\\EFSRT II\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Producto.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Producto.cshtml",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T00:09:10.643Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 747,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

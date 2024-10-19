@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AppWebUtilHome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\tienda\\carrito.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\logica\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\compralogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|c:\\appwebutilhome\\proyectotest\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|c:\\appwebutilhome\\proyectotest\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|c:\\appwebutilhome\\proyectotest\\models\\distrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\distrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\tienda\\compras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\tienda\\compras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\shared\\_layout_tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\shared\\_layout_tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|c:\\appwebutilhome\\proyectotest\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\logica\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\logica\\carritologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\carritologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|c:\\appwebutilhome\\proyectotest\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\home\\tienda.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\home\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\home\\marca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\home\\marca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\home\\categoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\home\\categoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\logica\\usuariologica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|C:\\AppWebUtilHome\\proyectotest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089E960-06E0-4CCD-BDC9-DEE0C595CFE7}|ProyectoTest\\AppWebUtilHome.csproj|solutionrelative:proyectotest\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Distrito.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\Distrito.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Distrito.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\Distrito.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Distrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:44:28.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Compra.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\Compra.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Compra.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T15:15:33.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T16:29:14.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carrito.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Carrito.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Carrito.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Carrito.cshtml",
+              "ViewState": "AgIAAE0BAAAAAAAAAAASwF8BAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T00:25:44.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Compras.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Compras.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Compras.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Compras.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Compras.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T00:22:43.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\DetalleCompra.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\DetalleCompra.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\DetalleCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:51:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompraLogica.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\CompraLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\CompraLogica.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\CompraLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\CompraLogica.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:58:47.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\TiendaController.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "ProyectoTest\\Controllers\\TiendaController.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAANkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T02:07:22.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "utilidades.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\utilidades.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\utilidades.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\utilidades.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\utilidades.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:54:15.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout_Tienda.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Shared\\_Layout_Tienda.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T00:36:26.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarritoLogica.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\CarritoLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\CarritoLogica.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\CarritoLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\CarritoLogica.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwEcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:50:21.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Carrito.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\Carrito.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T14:46:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProyectoTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAiwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T02:04:57.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T00:36:15.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T00:37:20.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Categoria.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Categoria.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Categoria.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Categoria.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Categoria.cshtml",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAIwN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T01:03:02.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Marca.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Marca.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Marca.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Marca.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Marca.cshtml",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAIwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T01:10:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Producto.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Producto.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Producto.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Producto.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Producto.cshtml",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAAwHQBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T00:35:36.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tienda.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Home\\Tienda.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T00:37:10.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "ProyectoTest\\Views\\Tienda\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T00:37:02.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProyectoTest\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:48:14.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\Conexion.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\Conexion.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\Conexion.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T23:50:39.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioLogica.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "RelativeToolTip": "ProyectoTest\\Logica\\UsuarioLogica.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:30:37.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\Models\\Usuario.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProyectoTest\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T17:30:24.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Web.config",
+              "RelativeDocumentMoniker": "ProyectoTest\\Views\\Web.config",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\Views\\Web.config",
+              "RelativeToolTip": "ProyectoTest\\Views\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-04T16:41:35.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\AppWebUtilHome\\ProyectoTest\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ProyectoTest\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\AppWebUtilHome\\ProyectoTest\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ProyectoTest\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:41:20.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

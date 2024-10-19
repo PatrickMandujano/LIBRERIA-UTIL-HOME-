@@ -1,0 +1,332 @@
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.dll.config
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.pdb
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.exe
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.exe.config
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.rsp
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.exe
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.exe.config
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.rsp
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Console.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.exe
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.exe.config
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.rsp
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\Antlr3.Runtime.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.Helpers.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.Mvc.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.Optimization.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.Razor.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\WebGrease.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.Helpers.xml
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.Mvc.xml
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.Optimization.xml
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.Razor.xml
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.xml
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\Antlr3.Runtime.pdb
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUtilHome.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUtilHome.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUt.10C7BFEF.Up2Date
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\obj\Debug\ProyectoTest.dll
+C:\Users\andre\Desktop\AppWebUtilHome\ProyectoTest\obj\Debug\ProyectoTest.pdb
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.dll.config
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.pdb
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.exe
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.exe.config
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.rsp
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.exe
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.exe.config
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.rsp
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Console.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.exe
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.exe.config
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.rsp
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\Antlr3.Runtime.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\Newtonsoft.Json.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.Helpers.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.Mvc.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.Optimization.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.Razor.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\WebGrease.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\Newtonsoft.Json.xml
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.Helpers.xml
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.Mvc.xml
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.Optimization.xml
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.Razor.xml
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.xml
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\Antlr3.Runtime.pdb
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUtilHome.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUtilHome.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUt.10C7BFEF.Up2Date
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\obj\Debug\ProyectoTest.dll
+C:\Users\andre\Downloads\AppWebUtilHome\ProyectoTest\obj\Debug\ProyectoTest.pdb
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.dll.config
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.pdb
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.exe
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.exe.config
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.rsp
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.exe
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.exe.config
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.rsp
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.AppContext.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Console.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.exe
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.exe.config
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.rsp
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\Antlr3.Runtime.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\Newtonsoft.Json.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.Helpers.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.Mvc.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.Optimization.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.Razor.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\WebGrease.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\Newtonsoft.Json.xml
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.Helpers.xml
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.Mvc.xml
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.Optimization.xml
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.Razor.xml
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.xml
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\Antlr3.Runtime.pdb
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUtilHome.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUtilHome.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUt.10C7BFEF.Up2Date
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\obj\Debug\ProyectoTest.dll
+C:\Users\andre\OneDrive - CIBERTEC\Tercer ciclo\EFSRT II\AppWebUtilHome\ProyectoTest\obj\Debug\ProyectoTest.pdb
+C:\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.dll.config
+C:\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.dll
+C:\AppWebUtilHome\ProyectoTest\bin\ProyectoTest.pdb
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.exe
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.exe.config
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\csc.rsp
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.exe
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.exe.config
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\csi.rsp
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.AppContext.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Console.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.exe
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.exe.config
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\vbc.rsp
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+C:\AppWebUtilHome\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\AppWebUtilHome\ProyectoTest\bin\Antlr3.Runtime.dll
+C:\AppWebUtilHome\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\AppWebUtilHome\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\AppWebUtilHome\ProyectoTest\bin\Newtonsoft.Json.dll
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.Helpers.dll
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.Mvc.dll
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.Optimization.dll
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.Razor.dll
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.dll
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+C:\AppWebUtilHome\ProyectoTest\bin\WebGrease.dll
+C:\AppWebUtilHome\ProyectoTest\bin\Newtonsoft.Json.xml
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.Helpers.xml
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.Mvc.xml
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.Optimization.xml
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.Razor.xml
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.xml
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+C:\AppWebUtilHome\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+C:\AppWebUtilHome\ProyectoTest\bin\Antlr3.Runtime.pdb
+C:\AppWebUtilHome\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+C:\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+C:\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+C:\AppWebUtilHome\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+C:\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+C:\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\AppWebUtilHome\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUtilHome.csproj.AssemblyReference.cache
+C:\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUtilHome.csproj.CoreCompileInputs.cache
+C:\AppWebUtilHome\ProyectoTest\obj\Debug\AppWebUt.10C7BFEF.Up2Date
+C:\AppWebUtilHome\ProyectoTest\obj\Debug\ProyectoTest.dll
+C:\AppWebUtilHome\ProyectoTest\obj\Debug\ProyectoTest.pdb
